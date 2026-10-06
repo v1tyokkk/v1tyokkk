@@ -16,7 +16,7 @@ Currently studying programming and continuously improving my skills through **pe
 
 **Development**
 
-`C++` · `Git` · `GitHub` · `VS Code`
+`C++` · `Python` · `Git` · `GitHub` · `VS Code`
 
 ---
 
